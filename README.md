@@ -1,10 +1,6 @@
-﻿## Python-Data-Science
-### [교재: 데이터 사이언스 스쿨](https://datascienceschool.net/view-notebook/39569f0132044097a15943bd8f440ca5/)
-### 교재: 파이썬으로 데이터 주무르기
-#### 저자: 민형기 (BJ 퍼블릭)
+﻿## Linux-haddop
 
-파이썬으로 데이터 분석하는 강좌입니다.<br>
-위에 표시한 교재 이외에 추가 교재가 있습니다.
+Linux 및 Haddop-Hive로 데이터 분석하는 강좌입니다.<br>
 
 ### 빅데이터를 활용한 스마트데이터 전문가 양성과정
 
